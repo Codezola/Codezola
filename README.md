@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Codezola
+- 👋 Hi, I’m @Zola
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning the basic of programming
 - 💞️ I’m looking to collaborate on frontend development
