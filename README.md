@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zola
 - 👀 I’m interested in Tech
-- 🌱 I’m currently learning the basic of programming
-- 💞️ I’m looking to collaborate on frontend development
+- 🌱 Full stuck developer
+- 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me codezola@gmail.com
 
 <!---
